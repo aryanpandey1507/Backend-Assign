@@ -2,10 +2,10 @@
 This is a user-auth API for general user authentication using JWT token . It also has reset password feature which works with nodemailer service.
 
 Using the below code snippet to run the API in postman
-Steps
-1.Copy paste the code into any index.html file.
-2.Open the file in browser 
-3.CLick the run in postman button to see the API in action on postman
+Steps\
+1.Copy paste the code into any index.html file.\
+2.Open the file in browser \
+3.CLick the run in postman button to see the API in action on postman\
 
 ```html
 <div class="postman-run-button"
